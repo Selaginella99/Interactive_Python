@@ -19,3 +19,5 @@ However, convention says that Python variable names starting and ending with und
 [2014 Tax Return终极指南](http://zhidian.us/home/tax_guide)
 
 [退税攻略](http://myweb.clemson.edu/~cssa/bbs/viewthread.php?tid=1264)
+
+[1040NR on IRS](http://www.irs.gov/uac/Form-1040NR-EZ,-U.S.-Income-Tax-Return-for-Certain-Nonresident-Aliens-With-No-Dependents)
