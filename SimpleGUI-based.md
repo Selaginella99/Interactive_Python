@@ -11,3 +11,5 @@ There are "control area","canvas" and "status area" in the SimpleGUI-based progr
 5. Create frame
 6. Register event handlers
 7. Start frame and timers
+
+Help documentation of [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
